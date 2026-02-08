@@ -1,0 +1,23 @@
+{
+    "name":"IM Clear Messages",
+    "id":"im-clear-messages",
+    "version":"1.0.0",
+    "startFile":"index.ts",
+
+    "enabled":true,
+    "priority":0,
+    "events":[],
+
+    "npmDependencies":[],
+    "requiredPlugins":[],
+    "incompatiblePlugins":[],
+
+    "details":{
+        "author":"imperatorix17",
+        "shortDescription":"A simple plugin to clear messages with a specific amount on a specific channel.",
+        "longDescription":"A simple plugin to clear messages with a specific amount on a specific channel.",
+        "imageUrl":"",
+        "projectUrl":"",
+        "tags":["clear-messages","command","custom","moderation"]
+    }
+}
